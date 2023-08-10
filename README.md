@@ -1,1 +1,1 @@
-# pig
+# aim-trainer
